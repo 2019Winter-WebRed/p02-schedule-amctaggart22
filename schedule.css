@@ -1,0 +1,20 @@
+/* 
+* Annie McTaggart
+* Due Date
+* Second SemesterSchedule Project
+*/
+
+*/ The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body { background-color: cornflowerblue;}
+table, td, th{ border: 3px solid lime; border-collapse: collapse;}
+thead{ background-color: deeppink;}
+tbody{ background-color: gold}
+tfoot{ background-color: mediumpurple}
+#pinktext{ color: deeppink; }
